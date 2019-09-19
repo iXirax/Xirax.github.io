@@ -18,6 +18,7 @@ body {
 
   text-transform: uppercase:capitalize;
   letter-spacing: 0.1em;
+  margin: 20px;
 }
 
 #header a:hover {
